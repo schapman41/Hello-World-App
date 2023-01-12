@@ -1,4 +1,4 @@
-# Hello-World-App
+# Hello World App
 Create a React web app that displays Hello World as a basic introductory project, will be following this with more exciting app projects
 
 First, make sure you have Node.js and npm (Node Package Manager) installed on your computer. You can download them from the official website (https://nodejs.org/en/).
